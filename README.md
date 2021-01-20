@@ -5,7 +5,7 @@ In the future, I'll add more utilities to this bot.
 
 Prefix: n (uppercase is fine too)
 
-Current features 
+Current features (some aren't included in the repo)
 - help: 
   Shows a list of commands
 - toucan:
