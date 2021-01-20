@@ -1,0 +1,2 @@
+# noahbot
+A Discord bot.
