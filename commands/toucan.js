@@ -15,7 +15,9 @@ module.exports = {
             "https://media1.tenor.com/images/e7395cdb99abe5a9b6d5d8238dd1d881/tenor.gif?itemid=16605180",
             "https://media1.tenor.com/images/6bdac109a2a8b50a7c9ebd93d08e1644/tenor.gif?itemid=14545821",
             "https://media1.tenor.com/images/ab7408d0a71f0de17bd86f6e342355db/tenor.gif?itemid=9638291",
-            "https://media1.tenor.com/images/7c7213440994e9b7b3582ec9961e5c81/tenor.gif?itemid=17140008"
+            "https://media1.tenor.com/images/7c7213440994e9b7b3582ec9961e5c81/tenor.gif?itemid=17140008",
+            "https://i.imgur.com/RkBzXm0.mp4",
+            "https://thumbs.gfycat.com/EuphoricRemoteEkaltadeta-mobile.mp4"
         ];
         var randomToucan = Toucans[Math.floor(Math.random()*Toucans.length)];
 
