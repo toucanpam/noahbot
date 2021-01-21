@@ -8,7 +8,7 @@ module.exports = {
             const target = message.mentions.users.first();
             if(target){
                 const memberTarget = message.guild.members.cache.get(member.id);
-                memberYarget.kick();
+                memberTarget.kick();
                 message.channel.send(`${user.tag} just got the yeet`)
             }else{
                 message.channel.send(`<@${member.id}> who am I going to kick? dumb`)
