@@ -10,6 +10,8 @@ Current features (some aren't included in the repo)
   Shows a list of commands
 - toucan:
   Posts a random toucan image or gif
+- cat:
+  Grabs a cat image from Reddit
 - poll:
   Adds reactions to suggestions/polls
 - kick:
